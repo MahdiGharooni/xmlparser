@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ads_explain_1">Questo gioco è gratuito.</string> 
+	<string name="ads_explain_2">Tuttavia, a causa degli alti costi di realizzazione e manutenzione, i giocatori che scelgono di giocarvi gratis potranno di tanto in tanto vedere comparire pubblicità.</string> 
+	<string name="ads_explain_3">Puoi terminare il gioco senza mai dover acquistare pacchetti extra.</string> 
+	<string name="ads_explain_4">Tuttavia, una volta ultimato un acquisto in-app nel gioco, le pubblicità scompariranno dallo schermo.</string> 
+	<string name="ads_explain_5">Ringraziamo del supporto e della comprensione.</string> 
+	<string name="ads_explain_6">Divertiti a giocare!</string>
+</resources>

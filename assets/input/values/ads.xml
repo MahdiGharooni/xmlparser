@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ads_explain_1">This game is free to play.</string>
+	<string name="ads_explain_2">But since it is very expensive to create and maintain it, players that play for free will occasionally see Ads.</string>
+	<string name="ads_explain_3">You can finish the game without ever buying a package.</string>
+	<string name="ads_explain_4">However, should you ever do an In-App Purchase in the game, you will not be bothered with Ads again.</string>
+	<string name="ads_explain_5">Thank you very much for your support and understanding.</string> 
+	<string name="ads_explain_6">Enjoy the game!</string>
+</resources>

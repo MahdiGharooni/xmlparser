@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="game_version">version: %1$s</string>
+    
+    <string name="your_game_version">Your game version: %1$s</string>
+    	
+    <string name="disable_facebook">Disable Facebook</string>
+    <string name="disable_facebook_confirm">Are you sure you want to disable Facebook and remove the cruise terminal? If you ever wish to play with your friends again, the cruise terminal will reappear once you log in with your Facebook account.</string>
+    	
+   	<string name="build_communicating_with_app_store">Communicating with App Store,\none moment please...</string>
+    <string name="build_purchase_failed_title">Purchase failed</string>
+    <string name="build_purchase_succeeded_title">Purchase successful</string>
+    <string name="build_purchase_succeeded_message">%1$s has been added to your balance!</string>
+    <string name="maxed_out">maximum reached</string>
+
+    <string name="settings_transfer">Transfer island</string>
+    <string name="transfer_title">Transfer island</string>
+    <string name="transfer_info">Here you can transfer your island to another device.\nCaution! You must open City Island on your other device first, and you need to be signed in to iCloud with the same account on that other device.\n\nPlease select the device where you want to transfer your island to.</string>
+    <string name="transfer_send_success_title">Transfer successful</string>
+    <string name="transfer_send_success_message">Open City Island on %1$s and make sure the device is connected to the internet. You will automatically receive a question to accept the incoming island transfer.</string>
+    <string name="transfer_send_failed_title">Transfer failed</string>
+    <string name="transfer_send_failed_message">The island transfer has failed. Make sure you have an active internet connection and that you have signed in to iCloud.</string>
+    <string name="transfer_accept_title">Island available</string>
+    <string name="transfer_accept_message">An island has been transferred to this device from %1$s. Do you want to accept this transfer?\n\nCAUTION!! Accepting the transfer will replace your current island and game progress. This is irreversible!</string>
+    <string name="transfer_accept_accept_button">Accept</string>
+    <string name="transfer_accept_reject_button">Decline</string>
+    <string name="transfer_accept_confirm_title">Replace island</string>
+    <string name="transfer_accept_confirm_message">Are you sure you want to replace your current island and game progress?</string>
+    <string name="transfer_accept_confirm_yes">Yes</string>
+    <string name="transfer_accept_confirm_no">No</string>
+    <string name="transfer_accept_failed_title">Transfer failed</string>
+    <string name="transfer_accept_failed_message">The island transfer has failed. Make sure you have an active internet connection and that you have signed in to iCloud.</string>
+    
+    
+    <string name="test">TEST</string>
+   
+   	<string name="gold">gold</string>
+   	<string name="cash">cash</string>
+   	<string name="level">level</string>
+   	<string name="and">and</string>
+	<string name="discount">DISCOUNT!</string>
+
+   	<string name="buy">Buy</string>
+   	<string name="earn">Earn</string>
+   	<string name="sale">Sale</string>
+   	<string name="quit_tutorial">Quit tutorial</string>
+   	
+   	<string name="bonus">Bonus</string>
+   	<string name="cost">Cost</string>
+   	<string name="price">Price</string>
+   	<string name="people">People</string>
+   	<string name="jobs">Jobs</string>
+   	<string name="profit">Profit</string>
+   	<string name="profit_within">Profit: %1$s within %2$s</string>
+   	<string name="happiness">Happiness</string>
+   	<string name="size">Size</string>
+	<string name="free">FREE!</string>
+   	<string name="experience">Experience</string>
+   	<string name="construction_time">Construction time</string>
+   	<string name="day">day</string>
+   	<string name="activation_cost">Activation: %1$s</string>
+   				
+    <string name="time_limited_offer">Time limited offer!</string>
+   				
+    <string name="thank_you">Thank you!</string>
+    <string name="build">Build</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+	<string name="no_thanks">No, thanks</string>
+    <string name="mission_ok">OK, no problem</string>
+    <string name="mission_cancel">No, sorry</string>
+    <string name="not_now">Not now</string>
+    <string name="ok_will_do">OK, will do &gt;&gt;</string>
+    <string name="perhaps_later">Perhaps later</string>
+    <string name="continue_message">Continue &gt;&gt;</string>
+    
+    <string name="free_gold">FREE GOLD</string>
+    <string name="wall_of_fame">Wall of Fame</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="more_games">More games</string>
+    <string name="more_free_games">More free games</string>
+    <string name="play">Play</string>
+    
+    <string name="check_our_facebook_page">Check our Facebook page</string>
+    
+    <string name="shop_currencies">Currencies</string>
+    <string name="shop_residential">Houses</string>
+    <string name="shop_commercial">Commercial</string>
+    <string name="shop_community">Community</string>
+    <string name="shop_decorations">Decorations</string>
+    <string name="shop_expansions">Expansions</string>
+    
+    <string name="no_internet_connection">No internet connection?</string>
+
+    <string name="download_game">Download our new game \'%1$s\' NOW!</string>
+    
+	<string name="notification_commercial_buildings_ready">All commercial buildings are ready: time to collect profit!</string>
+    <string name="notification_pirate_chest">A pirate chest has been found near your island!</string>
+    <string name="notification_we_miss_you">Your citizens miss you! Click this message to visit your island.</string>
+    <string name="notification_get_free_gold">Get FREE gold if you open the game NOW!</string>
+    
+    <plurals name="wishingwell_ready">
+        <item quantity="one">Your wishing well is ready!</item>
+        <item quantity="other">Your wishing wells are ready!</item>
+    </plurals>
+	<string name="wishingwell_description">Throw in some cash or gold to receive a nice gift!\nYou will be rewarded with cash, gold or XP.</string>
+    <string name="wishingwell_make_a_wish">MAKE A WISH!</string>
+    <string name="wishingwell_need_more_cash">You need at least %1$s cash</string>
+    <string name="wishingwell_need_more_gold">You need at least %1$s gold</string>
+    
+	<string name="drive_in_cinema_description">Your drive-in cinema will give you the opportunity to watch short videos and earn cash, gold and XP rewards!</string>
+   
+	<string name="maxed_out_header">Congratulations!</string>
+    <string name="maxed_out_description">You have reached the end of %1$s!\nSend an e-mail with your name and friendcode to %2$s to be listed in the VIP Wall of Fame and to receive a HUGE package of gold in %3$s!</string>
+    <string name="maxed_out_description_premium">You have reached the end of %1$s!\nSend an e-mail with your name and friendcode to %2$s to be listed in the VIP Wall of Fame!</string>
+    
+    
+    <string name="daily_reward">Daily reward</string>
+    <string name="daily_reward_received">You received a reward</string>
+    <string name="daily_reward_come_back_every_day">Come back every day to receive great rewards!</string>
+    
+	<string name="sale_offerwall_description">Earn 200% FREE gold! Check it out NOW!</string>
+	<string name="sale_private">SALE: 200%</string>
+	<string name="sale_private_description">Get 200% gold or cash when you buy NOW!</string>
+	<string name="long_private_sale_description">Congratulations!\nYou have earned a 72 hour PRIVATE SALE!</string>
+	<string name="sale_gold">SALE: 200% GOLD</string>
+	<string name="sale_gold_description">Get 200% gold when you buy NOW!</string>
+	<string name="sale_cash">SALE: 200% CASH</string>
+	<string name="sale_cash_description">Get 200% cash when you buy NOW!</string>
+	<string name="sale_expansions">SALE: DISCOUNT ON EXPANSIONS</string>
+	<string name="sale_expansions_description">Buy a plot of land NOW at 50% off!</string>
+	<string name="sale_item">25% DISCOUNT</string>
+	<string name="sale_item_description">Buy \'%1$s\' NOW with %2$s off!</string>
+		
+	<string name="port_wait_for_boat">wait for the boat to dock</string>
+    <string name="pirate_chest_found">You found a pirate chest!</string>
+    <string name="destroy_building_confirm">Are you sure you want to destroy this?</string>
+    <string name="will_be_unlocked_at">This will be unlocked at level %1$d</string>
+    <string name="object_cant_be_upgraded">This object can\'t be upgraded</string>
+    <string name="object_cant_be_stored">This object can\'t be stored in the warehouse</string>
+    <string name="object_upgraded_to_maximum_level">Already upgraded to the maximum upgrade level</string>
+	<string name="building_needs_road">This building has to be connected to a road!</string>
+	<string name="current_profit">Current profit: %1$s (%2$s)</string>
+	<string name="current_employees">Current employees: %1$d (%2$d jobs)</string>
+	<string name="current_tourists">Current tourists: %1$d (%2$s)</string>
+	<string name="time_until_profit">Time until profit: %1$s</string>
+	<string name="construction_time_left">Construction time left: %1$s</string>
+	<string name="destroy_time_left">Destroy time left: %1$s</string>
+	<string name="upgrade_time_left">Upgrade time left: %1$s</string>
+	<string name="upgrading_to_level">Upgrading to level %1$d</string>
+	<string name="happiness_points">Happiness: %1$d</string>
+	<string name="building_can_be_used_at_level">This %1$s can be used\nwhen you have reached level %2$d</string>
+	<string name="residential_people">People: %1$d (room for %2$d)</string>
+	<string name="building_current_upgrade_level">Upgrades: %1$d/%2$d</string>
+	<string name="building_upgrade_option">Upgrade to level %1$d for %2$s</string>
+	<string name="building_upgrade_option_residential">Upgrade creates room for %1$d more people</string>
+	<string name="building_upgrade_option_commercial">Upgrade for +%1$d jobs and +%2$s max profit</string>
+	<string name="building_speedup">Finish this job immediately for\n%1$d gold or $%2$s</string>
+	<string name="building_unlocked_at">You will have access on level %1$d</string>
+	<string name="building_costs_gold_max_facilities">You have to pay with gold because you already built %1$d facilities</string>
+	<string name="building_max_facilities">The maximum number of facilities: %1$d</string>
+	<string name="building_tile_type_water">Must be placed on WATER</string>
+	<string name="building_tile_type_shore">Must be placed on SHORE</string>
+	<string name="building_tile_type_beach">Must be placed on BEACH</string>
+	
+	<string name="help_building_drag_to_empty_space">Drag the building to an empty space</string>
+	<string name="help_build_roads">Build roads by tapping the grid</string>
+	<string name="help_destroy">Click roads/buildings to destroy</string>
+			
+																		
+    <string name="buy_expansion_confirm">Are you sure you want to expand for %1$s?</string>
+    <string name="expansion_is_locked">This region is locked</string>
+    <string name="expansion_already_owned">You already own this region</string>
+    <string name="expansion_buy_other_first">You have to buy an earlier region first!</string>
+    <string name="expansion_success">Your city has expanded!</string>
+    <string name="expansion_region">Region</string>
+   	
+    <string name="click_here_to_earn_gold">Click here to earn gold!</string>
+    <string name="want_free_cash_or_gold">Want FREE cash/gold?</string>
+    <string name="follow_for_giftcades">Then like/follow us to receive weekly giftcodes!</string>
+    <string name="like_on_facebook">Like us on facebook</string>
+    <string name="follow_on_twitter">Follow us on twitter</string>
+    
+    <string name="need_more_money">Need more money?</string>
+    <string name="go_to_bank">Go to the bank</string>
+    
+    <string name="you_have_reached_level">You have reached level %1$d</string>
+    <string name="you_have_received">You have received %1$s</string>
+    <string name="you_have_unlocked">You have unlocked</string>
+    <string name="you_received">You received</string>
+    
+    <string name="city_advisor">City Advisor</string>    
+    <string name="city_advisor_build_decorations">You need to build decorations or community buildings in order to attract citizens.\nMy advise is to build a %1$s.</string>    
+    <string name="city_advisor_not_happy">People are not happy. Make them happy or they will leave this city.\nYou should build more decorations or community buildings to attract citizens.\nMy advise is to build a %1$s.</string>    
+    <string name="city_advisor_expand">There is not much space left in your city. Maybe it is time to expand?\nThis will create more room for new citizens, and will make you more money.</string>    
+    <string name="city_advisor_make_money">It is time to make some money.\nMy advise is to build a %1$s.</string>    
+    <plurals name="city_advisor_jobs_needed">
+        <item quantity="one">There is %1$d person without a job.\nMy advise is to build a %2$s or to upgrade some of your existing commercial buildings.</item>
+        <item quantity="other">There are %1$d people without a job.\nMy advise is to build a %2$s or to upgrade some of your existing commercial buildings.</item>
+    </plurals>
+    <string name="city_advisor_people_needed">You need people for the available jobs.\nMy advise is to build a %1$s.</string>   
+    <plurals name="city_advisor_more_people_needed">
+        <item quantity="one">There is %1$d more job available than people in this city.\nBuild more residences to attract workers.\nMy advise is to build a %2$s or to upgrade some of your existing residences.</item>
+        <item quantity="other">There are %1$d more jobs available than people in this city.\nBuild more residences to attract workers.\nMy advise is to build a %2$s or to upgrade some of your existing residences.</item>
+    </plurals>
+    <string name="city_advisor_atttract_people">It is time to attract people to this city.\nMy advise is to build a %1$s.</string>   
+    <string name="city_advisor_atttract_more_people">Your citizens are happy!\nNow it is time to attract more people to this city.\nMy advise is to build a %1$s or to upgrade some of your existing residences.</string>   
+    <string name="city_advisor_balanced">Good job! This city seems very well balanced.\nConsider upgrading some buildings, or build some more decorations.</string>   
+    
+    <string name="mission_car_tank_refill">My tank is running empty but I don\'t have enough money to refill. Can I borrow $%1$d? I\'ll pay you back twice as much.</string>
+    <string name="mission_car_coffee">Can you spare me some change? I\'d like to buy a cup of coffee.</string>
+    <string name="mission_car_find_policestation">Someone robbed me! I need to report this at the police station.. Can you tell me where I can find it?</string>
+    <string name="mission_car_find_supermarket">My wife asked me to bring some milk from the supermarket, but I don\'t have enough money with me. Can you buy me some?</string>
+    <string name="mission_car_find_newsstand">I\'d like to buy a newspaper, but I forgot my wallet. Can I borrow $20?</string>
+    <string name="mission_car_find_fashionstore">I need to retrieve a suit to the fashion store, but I don\'t remember where it\'s located. Can you show me?</string>
+    <string name="mission_car_find_museum">I forgot my wallet at the museum. Will you retrieve it for me? I\'ll pay you for it!</string>
+    <string name="mission_car_find_coffeecorner">Can you spare me some change? I\'d like to buy a cup of coffee at the coffee corner.</string>
+    <string name="mission_car_find_hotdogstand">Can you borrow some money for a hotdog? I\'m really hungry and I forgot my lunch...</string>
+    <string name="mission_car_find_1">Can you help me find the %1$s?</string>
+    <string name="mission_car_find_2">Can you tell me where to find the nearest %1$s?</string>
+    <string name="mission_car_find_3">I have an appointment at the %1$s, but I don\'t know where to find it. Can you tell me where it is?</string>
+    <string name="mission_car_find_4">Can you tell me where I can find the %1$s?</string>
+	<string name="mission_car_find_5">I need to find the %1$s. Can you assist me?</string>
+	<string name="mission_policecar">I need to go back to the police station, but I\'m totally lost and my GPS is broken... Can you tell me which way to go?</string>
+	<string name="mission_policecar_port">My assistance is needed at the port, but I am totally lost... Can you show me the direction?</string>
+	<string name="mission_policecar_supermarket">Someone was robbed at the supermarket, but I can\'t find it. Can you tell me where it is?</string>
+	<string name="mission_policecar_coffeecorner">A donut would be nice, but I can\'t find the coffeecorner. Can you show me the way?</string>
+	<string name="mission_policecar_bank">The bank is being robbed! I need to get there now! Please tell me where to find it!</string>
+	<string name="mission_santa_cash">Santa is in town and gives you cash! Will you accept his present?</string>
+	<string name="mission_santa_xp">Santa is in town and gives you XP! Will you accept his present?</string>
+	<string name="mission_taxi_1">I need to bring someone home but I can\'t find his address. Can you help me?</string>
+	<string name="mission_taxi_2">I need to pick someone up, but I can\'t find him. Can you help me find him?</string>
+			
+    
+    <string name="new_buildings_available">New buildings available!</string>
+    <string name="show_me">Show me!</string>
+    
+    <string name="building_relocate">relocate</string>
+    <string name="building_upgrade">upgrade</string>
+    <string name="building_store_in_warehouse">store</string>
+    <string name="building_destroy">destroy</string>
+    <string name="building_activate">activate</string>
+    
+    <string name="speed_up_with_gold">Speed up with gold</string>
+    <string name="speed_up_with_cash">Speed up with cash</string>
+    
+    <string name="would_you_like_free_gold">Would you like some FREE gold?</string>
+    <string name="would_you_like_free_diamonds">Would you like some FREE diamonds?</string>
+    <string name="for_price">for</string>
+    <string name="purchase_bonus">%1$s bonus!</string>
+    <string name="sale_header">** SALE ** Receive up to 200%!</string>
+    <string name="add_money">Add money</string>
+    <string name="add_gold">Add gold</string>
+    <string name="add_cash">Add cash</string>
+    <string name="buy_cash">Buy cash</string>
+    <string name="buy_gold">Buy gold</string>
+    <string name="go_to_the_bank">Go to the bank &gt;&gt;</string>
+    <string name="you_need_more_gold">You need %1$s extra GOLD in order to perform this operation</string>
+    <string name="you_need_more_diamonds">You need %1$s extra DIAMONDS in order to perform this operation</string>
+    <string name="you_need_more_cash">You need %1$s extra CASH in order to perform this operation</string>
+    <string name="you_need_more_gold_and_cash">You need %1$s extra GOLD and %2$s extra CASH in order to perform this operation</string>
+    
+    <string name="enjoying_the_game">Enjoying %1$s?</string>
+    <string name="still_enjoying_the_game">Still enjoying %1$s?</string>
+    <string name="consider_feedback">Please consider leaving feedback in Google Play. Thank you!</string>
+    
+    <string name="rate_game_description">We\'ve worked really hard to develop \"%1$s\". Please take a moment to rate us if you like the game. \nYour rating helps us continue making improvements to the game!</string>
+	<string name="rate_game">Rate the game &gt;&gt;</string>
+	
+    <string name="register_to_get_updates_and_gifts_via_email">Get updates and gifts in your email!</string>
+    <string name="register_description">We\'ll send you updates, tips and tricks, giftcodes for some extra gold and cash and more!</string>
+    <string name="register_your_name">Your name:</string>
+    <string name="register_your_name_hint">your name</string>
+    <string name="register_emailaddress">E-mail address:</string>
+    <string name="register_emailaddress_hint">e-mail address</string>
+    <string name="register">Register</string>
+    <string name="register_enter_name">Please enter your name</string>
+    <string name="register_enter_emailaddress">Please enter a valid emailaddress</string>
+    <string name="register_success_confirmation">A confirmation e-mail is sent to %1$s</string>
+    <string name="register_error">Your request could not be processed. Please try again later.</string>
+    
+    <string name="reward_new_friends">New friend(s)</string>
+    
+    <string name="rewards">Rewards</string>
+    <string name="reward_progress">Progress:</string>
+    <string name="reward_you_will_receive">You will receive:</string>
+    <string name="reward_congratulations">Congratulations!</string>
+    <string name="reward_you_have_received">You have received</string>
+    
+    <string name="huge_sale">HUGE SALE!</string>
+    <string name="huge_sale_description">Get over 200% of cash and gold when you purchase now!</string>
+    <string name="huge_sale_limited_time">This sale is a limited time offer, so benefit now!</string>
+    
+    <string name="options">Options</string>
+    <string name="option_music_on">Music: on</string>
+    <string name="option_music_off">Music: off</string>
+    <string name="option_sfx_on">SFX: on</string>
+    <string name="option_sfx_off">SFX: off</string>
+    <string name="option_push_notifications_on">Push notifications: on</string>
+    <string name="option_push_notifications_off">Push notifications: off</string>
+    <string name="option_start_new_game">New game</string>
+    <string name="option_start_new_game_confirm">Are you sure you want to start all over?</string>
+	
+	<string name="social_options">Social options</string>
+	<string name="social_your_friendcode">Your friendcode: </string>
+	<string name="social_redeem_code">Redeem your giftcode or friendcode here</string>
+	<string name="social_giftcode_explain">Giftcodes can be found on our Facebook or Twitter page</string>
+	<string name="social_friendcode_explain">Friendcodes can be found on their Facebook or Twitter page</string>
+	<string name="social_redeem_action">Redeem!</string>	
+	<string name="social_cheater">Your social capabilities have been restricted due to suspicion of cheating. For additional information please contact support.</string>	
+	<string name="social_empty_code">Please enter the code you wish to redeem</string>	
+	<string name="social_connect_to_internet_and_restart">Please connect to internet and restart the game</string>
+	<string name="social_code_error">Something went wrong, please try again later</string>	
+	<string name="social_code_already_used_friendcode">You have already used this friendcode</string>	
+	<string name="social_code_already_used_giftcode">You have already used this giftcode</string>	
+	<string name="social_code_maximum_reached">You have redeemed the maximum of 10 friendcodes in the past 24 hours, please try again later</string>	
+	<string name="social_code_expired">This giftcode is already expired</string>	
+	<string name="social_code_unknown">Unknown code</string>	
+	<string name="social_code_error_own_friendcode">You can\'t redeem your own friendcode</string>	
+	<string name="social_giftcode_accepted">Giftcode accepted</string>	
+	<string name="social_help_share">Drag around and zoom, and press the OK button to take a picture.</string>
+	<string name="social_share_success">You have successfully shared your island on Facebook!</string>
+		
+	<string name="social_menu_friends">Friends</string>
+    <string name="social_menu_gifts">Gifts</string>
+    <string name="social_menu_messages">Messages</string>
+    <string name="social_menu_invite">Invite</string>
+    <string name="social_menu_share">Share</string>
+    <string name="social_menu_redeem">Redeem</string>
+    
+    <string name="social_option_gift">Gift</string>
+    <string name="social_option_message">Message</string>
+    <string name="social_option_block">Block</string>
+    <string name="social_option_unblock">Unblock</string>
+    <string name="social_option_invite">Invite</string>
+    <string name="social_option_accept">Accept</string>
+    <string name="social_option_reject">Reject</string>
+    <string name="social_option_reply">Reply</string>
+    <string name="social_option_read">Read</string>
+    <string name="social_option_delete">Delete</string>
+    <string name="social_option_send">Send</string>
+    
+    <string name="social_text_with_facebook_post_share_island">Do you like my city?</string>
+    
+    
+    <string name="social_you_received_a_gift_from">You received a gift from %1$s!</string>
+    <string name="social_you_received_a_plane_from">%1$s sent a plane to you!</string>
+    <string name="social_you_received_a_ship_from">%1$s sent a cruise ship to you!</string>
+    <string name="social_ship_notification">%1$s has sent a cruise ship to your island.\nIt will arrive at the terminal any time soon!</string>
+    <string name="social_you_have_no_friends">No Facebook friends are playing this game</string>
+    <string name="social_you_have_no_messages">You have no messages</string>
+    <string name="social_unknown_friend">someone</string>
+    <string name="social_login_with_facebook">Log in with Facebook first</string>
+    <string name="social_login">Log in</string>
+    <string name="social_invite">Invite a friend</string>
+    <string name="social_invite_more">Invite more friends</string>
+    <string name="social_send_plane">Send plane</string>
+    <string name="social_send_ship">Send ship</string>
+	<string name="social_send_plane_to_facebook_friend">Send plane to a friend</string>
+	<string name="social_send_ship_to_facebook_friend">Send ship to a friend</string>
+    <string name="social_loading">Loading ...</string>
+    <string name="social_post_screenshot_description">Share a picture of your island with your friends on Facebook.</string>
+    <string name="social_post_screenshot_button_text">Take a picture</string>
+    <string name="social_post_screenshot_reward">Reward for sharing: %1$s</string>
+    <string name="social_sending_a_message_to">Sending a message to...</string>
+    <string name="social_enter_your_message_here">Enter your message here...</string>
+
+	<string name="cruiseterminal_description">Send a cruise ship to a Facebook friend and earn gold rewards!</string>
+	<string name="cruiseterminal_button">Pick a friend</string>
+    
+    
+			
+	<string name="sorry_header">Terrible news: Game data lost</string>
+	<string name="sorry_text1">We are terribly sorry but all game data is gone... In December 2012, City Island has been removed from Google Play. As a result, all progress from all players is gone. So you need to start with an empty island...</string>
+	<string name="sorry_text2">Although we can never really compensate you for this, we hope the HUGE amount of GOLD and CASH will salve your wounds a little bit. We really hope you will enjoy City Island again!</string>
+	
+	<string name="special_november_speedup_header">** NOVEMBER: Speed Up **</string>
+	<string name="special_november_speedup_text1">This month we have a huge offer to help you speed up your progress!</string>
+	<string name="special_november_speedup_text2">All gold buildings will cost you 25% less!</string>
+	
+	<string name="tutorial">Tutorial</string>
+	<string name="tutorial_lets_go">Let\'s go!</string>
+	<string name="tutorial_quit_confirm">Are you sure you want to quit the tutorial?</string>
+	<string name="tutorial_welcome">WELCOME TO CITY ISLAND!\n\nYou just arrived on this empty island with the ambitious plan to build a thriving city here...\nSo let\'s start! \nClick on the \'build\' button on the lower left corner of the screen.</string>
+	<string name="tutorial_residential_tab">This is the build menu.\nIt has more than one tab.\nThis tab shows the residential buildings.\nClick on \'%1$s\'.</string>
+	<string name="tutorial_press_build_button">\nNow press the green \'Build\' button.\n</string>
+	<string name="tutorial_drag_building">Drag the building around until you find a suitable spot.\nIt can only be built within the fenced area.\nWhen the building is not shown in red, it can be build.\nPress the \'OK\' icon if you are ready to build it.</string>
+	<string name="tutorial_connect_house_to_road">Your house needs to be connected to a road.\nIf it is not connected to a road, nobody will move in, and the house will remain empty.\nSo let\'s build some roads around it.</string>
+	<string name="tutorial_add_roads">Let\'s add some roads now, so people can move around on your island.</string>
+	<string name="tutorial_time_to_attract_people">It is time to attract some people!\nClick on the \'build\' button.</string>
+	<string name="tutorial_decorations_tab">This tab shows the decorations.\nDecorations will make people happy!\nClick on a decoration of your choice.</string>
+	<string name="tutorial_time_to_earn_money">It is time to earn some money!\nClick on the \'build\' button.</string>
+	<string name="tutorial_commercial_tab">The second tab shows the commercial buildings.\nMost of them are locked.\nEach time your XP level increases, a new building will be unlocked.\nFor now, let\'s click on \'%1$s\'.</string>
+	<string name="tutorial_connect_residential_object_to_road">Your \'%1$s\' needs to be connected to a road.\nIf it is not connected to a road, nobody will move in, and the house will remain empty.\nSo let\'s build some roads around it.</string>
+	<string name="tutorial_connect_commercial_object_to_road">Your \'%1$s\' needs to be connected to a road.\nIf it is not connected to a road, nobody will work here.\nAnd you can\'t make money without employees!</string>
+	<string name="tutorial_look_at_house">Now let\'s have a look at this house.\nClick on it to find some more options.</string>
+	<string name="tutorial_house_details">This house has room for %1$d people and there are currently %2$d people living here. Let\'s create some more room by clicking the \'upgrade\' button.</string>
+	<string name="tutorial_look_at_building">Now let\'s have a look at this building.\nClick on it to find some more options.</string>
+	<string name="tutorial_commercial_building_details">This building has room for %1$d employees and there are currently %2$d people working here. Let\'s create some more jobs by clicking the \'upgrade\' button.\nThis way you can earn more money!</string>
+	<string name="tutorial_collect_money">It is time to collect some money!\nClick on this building to collect your profit.</string>
+	<string name="tutorial_social_options">Now that you are making money, let\'s have a look at the social options screen.\nClick on this icon to open its window.</string>
+	<string name="tutorial_social_options_description">Here you can find your Facebook friends that are playing this game, invite Facebook friends, send and read messages, share a photo of your island on Facebook, and redeem giftcodes and friendcodes.\nClick on \'%1$s\' and redeem your first giftcode: %2$s</string>
+	<string name="tutorial_social_options_redeem_code">Here you can find your friendcode (%1$s). When someone enters your code, or you enter someone else\'s code, you will both receive money. We will also publish giftcodes on our facebook/twitter page regularly.\nLet\'s enter your first giftcode: %2$s</string>
+	<string name="tutorial_city_advisor_not_happy">Now let\'s have a look at your city statistics. As you can see in the top-right corner, your people are NOT happy. You need to build decorations or community buildings to make them happy again. Happy people attract more citizens. Want to know what your city needs?\nClick on the \'City Advisor\' button. He will tell you what your city needs.\nThat\'s it: this tutorial is ready! Good luck and enjoy the game!</string>
+	<string name="tutorial_city_advisor_happy">Now let\'s have a look at your city statistics. As you can see in the top-right corner, your people are happy. Happy people attract more citizens. Want to know what your city needs?\nClick on the \'City Advisor\' button. He will tell you what your city needs.\nThat\'s it: this tutorial is ready! Good luck and enjoy the game!</string>
+			
+	<string name="update_available">Update available</string>
+	<string name="update_older_version">You are using an older version of the game.</string>
+	<string name="update_visit_google_play">Please visit Google Play now and update the game to benefit from all the improvements!</string>
+	<string name="update_visit_amazon_store">Please visit Amazon Appstore now and update the game to benefit from all the improvements!</string>
+	<string name="update_go">Update the game &gt;&gt;</string>
+	
+	<string name="warehouse">Warehouse</string>
+	<string name="warehouse_place_object">Place</string>
+	<string name="warehouse_empty">empty</string>
+	<string name="warehouse_unlock">Unlock?</string>
+	<string name="warehouse_is_full">Your warehouse is full!</string>
+	<string name="warehouse_confirm_to_store">Do you want to store this in your warehouse?</string>
+	<string name="warehouse_enlarged">You have enlarged your warehouse!\nYou can store more buildings now.</string>
+	<string name="warehouse_buy_extra_space">Do you want to buy this extra space for %1$s?</string>
+	
+	<string name="currency_exchange_office_description">Sell your cash and get GOLD in return!</string>
+	
+	<string name="click_to_watch_video">Watch and discover</string>
+	
+	<plurals name="new_buildings_available">
+        <item quantity="one">New building available!</item>
+        <item quantity="other">New buildings available!</item>
+    </plurals>
+	
+	<string name="reward_buy_gold">Buy %1$d gold, and get %2$d gold extra, for FREE!</string>
+	<string name="reward_build_a_specific_building">Build one \'%1$s\'</string>
+	<string name="click_here">Click here</string>
+	
+	<plurals name="reward_facilities_built">
+        <item quantity="one">%d Facility built</item>
+        <item quantity="other">%d Facilities built</item>
+    </plurals>
+	<plurals name="reward_residential_built">
+        <item quantity="one">%d Residential building</item>
+        <item quantity="other">%d Residential buildings</item>
+    </plurals>
+	<plurals name="reward_commercial_built">
+        <item quantity="one">%d Commercial building</item>
+        <item quantity="other">%d Commercial buildings</item>
+    </plurals>
+	<plurals name="reward_community_built">
+        <item quantity="one">%d Community building</item>
+        <item quantity="other">%d Community buildings</item>
+    </plurals>
+	<plurals name="reward_decorations_built">
+        <item quantity="one">%d Decoration</item>
+        <item quantity="other">%d Decorations</item>
+    </plurals>
+	<plurals name="reward_trees_planted">
+        <item quantity="one">%d Tree planted</item>
+        <item quantity="other">%d Trees planted</item>
+    </plurals>
+	<plurals name="reward_roads_built">
+        <item quantity="one">%d Road</item>
+        <item quantity="other">%d Roads</item>
+    </plurals>
+	<plurals name="reward_destroy_buildings">
+        <item quantity="one">Destroy %d building</item>
+        <item quantity="other">Destroy %d buildings</item>
+    </plurals>
+	<plurals name="reward_profit_collected">
+        <item quantity="one">Collect profit %d time</item>
+        <item quantity="other">Collect profit %d times</item>
+    </plurals>
+    <string name="reward_total_cash_profit">Collect %1$s cash profit</string>
+    <string name="reward_money_in_bank">%1$s Cash in the bank</string>
+    <string name="reward_remove_rocks">Remove %1$s rocks</string>
+    <string name="reward_warehouse_size">Warehouse size: %1$s</string>
+    <plurals name="reward_hours_played">
+        <item quantity="one">Spend %d hour in the game</item>
+        <item quantity="other">Spend %d hours in the game</item>
+    </plurals>
+	<plurals name="reward_santa_presents">
+        <item quantity="one">Get %d present from santa</item>
+        <item quantity="other">Get %d presents from santa</item>
+    </plurals>
+	<plurals name="reward_missions">
+        <item quantity="one">Help %d person</item>
+        <item quantity="other">Help %d people</item>
+    </plurals>
+	<plurals name="reward_fish_caught">
+        <item quantity="one">Catch %d fish</item>
+        <item quantity="other">Catch %d fish</item>
+    </plurals>
+	<plurals name="reward_pirate_chests">
+        <item quantity="one">%d Pirate chest found</item>
+        <item quantity="other">%d Pirate chests found</item>
+    </plurals>
+	<plurals name="reward_citizens">
+        <item quantity="one">%d Citizen</item>
+        <item quantity="other">%d Citizens</item>
+    </plurals>
+	<plurals name="reward_employees">
+        <item quantity="one">%d Employee</item>
+        <item quantity="other">%d Employees</item>
+    </plurals>
+	<plurals name="reward_upgrades">
+        <item quantity="one">%d Upgrade executed</item>
+        <item quantity="other">%d Upgrades executed</item>
+    </plurals>
+	<plurals name="reward_upgrades_level10">
+        <item quantity="one">%d Upgrade to level 10</item>
+        <item quantity="other">%d Upgrades to level 10</item>
+    </plurals>
+	<plurals name="reward_upgrades_to_max">
+        <item quantity="one">%d Upgrade to level 5</item>
+        <item quantity="other">%d Upgrades to level 5</item>
+    </plurals>
+	<plurals name="reward_speedup">
+        <item quantity="one">Speed up %d time</item>
+        <item quantity="other">Speed up %d times</item>
+    </plurals>
+	<plurals name="reward_watch_videos">
+        <item quantity="one">Discover %d app</item>
+        <item quantity="other">Discover %d apps</item>
+    </plurals>
+	<plurals name="reward_receive_ships_from_friends">
+        <item quantity="one">Receive %d cruise ship from a Facebook friend</item>
+        <item quantity="other">Receive %d cruise ships from Facebook friends</item>
+    </plurals>
+	<plurals name="reward_send_ship_to_friend">
+        <item quantity="one">Send %d cruise ship to a Facebook friend</item>
+        <item quantity="other">Send %d cruise ships to Facebook friends</item>
+    </plurals>
+	
+
+
+
+	
+	<string name="road">Road</string>
+
+	<!-- COMMERCIAL -->
+	<string name="christmasmarket">Christmas market</string>
+	<string name="reindeerfarm">Reindeer farm</string>
+	<string name="wishing_well">Wishing well</string>
+	<string name="animalfarm">Animal farm</string>
+	<string name="farm">Farm</string>
+	<string name="gold_mine">Gold mine</string>
+	<string name="newsstand">News stand</string>
+	<string name="donutcafe">Donut cafe</string>
+	<string name="florist">Florist</string>
+	<string name="candyshop">Candy shop</string>
+	<string name="port">Port</string>
+	<string name="coffeecorner">Coffee corner</string>
+	<string name="hotdogstand">Hotdog stand</string>
+	<string name="diner">Diner</string>
+	<string name="gasstation">Gas station</string>
+	<string name="tvtower">TV tower</string>
+	<string name="supermarket">Supermarket</string>
+	<string name="oilplatform">Oil platform</string>
+	<string name="bakery">Bakery</string>
+	<string name="toystore">Toy store</string>
+	<string name="hotel">Hotel</string>
+	<string name="hotelonwater">Hotel on water</string>
+	<string name="burgerrestaurant">Burger restaurant</string>
+	<string name="factory">Factory</string>
+	<string name="cafe">Cafe</string>
+	<string name="disco">Disco</string>
+	<string name="bank">Bank</string>
+	<string name="smalloffice">Small office</string>
+	<string name="bowlingcentre">Bowling centre</string>
+	<string name="bedandbreakfast">Bed and breakfast</string>
+	<string name="italianrestaurant">Italian restaurant</string>
+	<string name="cinema">Cinema</string>
+	<string name="fashionstore">Fashion store</string>
+	<string name="sushi">Sushi restaurant</string>
+	<string name="mediumoffice">Medium office</string>
+	<string name="zoo">Zoo</string>
+	<string name="bighotel">Big hotel</string>
+	<string name="largeoffice">Large office</string>
+	<string name="casino">Casino</string>
+	<string name="seafood">Seafood restaurant</string>
+	<string name="icecream">Icecream store</string>
+	<string name="bookstore">Book store</string>
+	<string name="mexican">Mexican restaurant</string>
+	<string name="musicstore">Music store</string>
+	<string name="petstore">Pet store</string>
+	<string name="pub">Pub</string>
+	<string name="large_office2">Large office</string>
+	<string name="pharmacy">Pharmacy</string>
+	<string name="office_center">Office center</string>
+	<string name="sportsstore">Sports store</string>
+	<string name="carservice">Car service</string>
+	<string name="beachbar">Beach bar</string>
+	<string name="dentist">Dentist</string>
+	<string name="large_office3">Large office</string>
+	<string name="large_office4">Large office</string>
+	<string name="beachrestaurant">Beach restaurant</string>
+	<string name="beachclub">Beach club</string>
+	<string name="waterresort">Water resort</string>
+	<string name="waterhotel1">Hotel on water</string>
+	<string name="waterhotel2">Hotel on water</string>
+	<string name="waterhotel3">Hotel on water</string>
+	<string name="beachvolleyball">Beach volleyball</string>
+	<string name="golfcourse1">Golf course</string>
+	<string name="golfcourse2">Golf course</string>
+	<string name="golfcourse3">Golf course</string>
+	<string name="racecourse">Race course</string>
+	<string name="taxistation">Taxi station</string>
+	<string name="fastfood">Fast food</string>
+	<string name="busstation">Bus station</string>
+	<string name="cruiseterminal">Cruise terminal</string>
+	<string name="currency_exchange_office">Currency exchange office</string>
+	<string name="world_bank">World bank</string>
+	<string name="ranch">Ranch</string>
+		
+	
+	<!-- COMMUNITY -->
+	<string name="christmasstable">Christmas stable</string>
+	<string name="christmastree">Christmas tree</string>
+	<string name="church">Church</string>
+	<string name="policestation">Police station</string>
+	<string name="lighthouse">Lighthouse</string>
+	<string name="firedepartment">Fire department</string>
+	<string name="school">School</string>
+	<string name="weddingchapel">Wedding chapel</string>
+	<string name="hospital">Hospital</string>
+	<string name="soccerstadium">Soccer stadium</string>
+	<string name="playground">Playground</string>
+	<string name="baseballfield">Baseball field</string>
+	<string name="ferriswheel">Ferris wheel</string>
+	<string name="daycare">Daycare</string>
+	<string name="library">Library</string>
+	<string name="cityhall">City hall</string>
+	<string name="theatre">Theatre</string>
+	<string name="museum">Museum</string>
+	<string name="university">University</string>
+	<string name="circus">Circus</string>
+	<string name="highschool">High School</string>
+	<string name="observatory">Observatory</string>
+	<string name="taj_mahal">Taj mahal</string>
+	<string name="clocktower">Clock tower</string>
+	<string name="eiffel_tower">Eiffel tower</string>
+	<string name="prison">Prison</string>
+	<string name="statue_liberty">Statue of liberty</string>
+	<string name="opera">Opera</string>
+	<string name="parthenon">Parthenon</string>
+	<string name="bigben_clocktower">Big ben</string>
+	<string name="sydney_opera">Sydney opera</string>
+	<string name="moscow_kremlin">Kremlin</string>
+	<string name="pisa">Tower of pisa</string>
+	<string name="buddha">Buddha</string>
+	<string name="colosseum">Colosseum</string>
+	<string name="fireworks">Fireworks</string>
+	<string name="trading_center">Trade center</string>
+	<string name="modern_museum">Modern museum</string>
+	
+	<!-- DECORATIONS -->
+	<string name="cactus1">Cactus</string>
+	<string name="cactus2">Cactus</string>
+	<string name="cactus3">Cactus</string>
+	<string name="flowers">Flowers</string>
+	<string name="fountain">Fountain</string>
+	<string name="largepark">Large Park</string>
+	<string name="largepark2">Large Park</string>
+	<string name="mediumpark1">Medium Park</string>
+	<string name="mediumpark2">Medium Park</string>
+	<string name="plaza">Plaza</string>
+	<string name="smallpark1">Small Park</string>
+	<string name="smallpark2">Small Park</string>
+	<string name="tree_palm">Palm tree</string>
+	<string name="tree_palms">Palm trees</string>
+	<string name="tree1">Tree</string>
+	<string name="tree2">Tree</string>
+	<string name="tree3">Tree</string>
+	<string name="tree4">Tree</string>
+	<string name="tree5">Tree</string>
+	<string name="tree6">Tree</string>
+	<string name="statue">Mayor statue</string>
+	<string name="modernsculpture">Modern sculpture</string>
+	<string name="umbrella">Beach umbrella</string>
+	<string name="sand_castle">Sandcastle</string>
+	<string name="roses">Roses</string>
+	<string name="lavender">Lavender</string>
+	<string name="fishermans_boat">Fisherman\'s boat</string>
+	<string name="beach_beds">Beach beds</string>
+	
+	<!-- RESIDENTIAL -->
+	<string name="santashouse">Santa\'s house</string>
+	<string name="smallhouse1">Small house</string>
+	<string name="smallhouse2">Small house</string>
+	<string name="mediumhouse1">Villa</string>
+	<string name="smallhouse3">Small house</string>
+	<string name="smallhouse4">Small house</string>
+	<string name="mediumhouse2">Villa</string>
+	<string name="bighouse1">Big House</string>
+	<string name="mansion">Mansion</string>
+	<string name="bighouse2">Big House</string>
+	<string name="bighouse3">Big House</string>
+	<string name="bighouse4">Big House</string>
+	<string name="bighouse5">Big House </string>
+	<string name="appartment1">Apartment</string>
+	<string name="appartment2">Apartment</string>
+	<string name="skyscraper1">Skyscraper</string>
+	<string name="appartment3">Apartment</string>
+	<string name="appartment4">Apartment</string>
+	<string name="skyscraper2">Skyscraper</string>
+	<string name="appartment5">Apartment</string>
+	<string name="skyscraper3">Skyscraper</string>
+	<string name="skyscraper4">Skyscraper</string>
+	<string name="skyscraper5">Skyscraper</string>
+	<string name="skyscraper6">Skyscraper</string>
+	<string name="appartment6">Apartment</string>
+	<string name="skyscraper7">Skyscraper</string>
+
+	
+	<!-- CIG2 -->
+	<string name="barber">Barber</string>
+	<string name="beach_umbrella">Beach umbrella</string>
+	<string name="burj_al_arab">Burj Al Arab</string>
+	<string name="car_rental">Car rental</string>
+	<string name="car_showroom">Car showroom</string>
+	<string name="carousel">Carousel</string>
+	<string name="drive_in_cinema">Drive in cinema</string>
+	<string name="fair">Fair</string>
+	<string name="flower_kiosk">Flower kiosk</string>
+	<string name="gold_silo">Gold silo</string>
+	<string name="hardware_shop">Hardware shop</string>
+	<string name="indian_restaurant">Indian restaurant</string>
+	<string name="island_with_attractions">Island with attractions</string>
+	<string name="karaoke_bar">Karaoke bar</string>
+	<string name="market_stall">Market stall</string>
+	<string name="meadow_with_flowers">Meadow with flowers</string>
+	<string name="parking_lot">Parking lot</string>
+	<string name="pirate_ship">Pirate ship</string>
+	<string name="pool_hall">Pool hall</string>
+	<string name="railway_station">Railway station</string>
+	<string name="restaurant_on_water">Restaurant on water</string>
+	<string name="rollercoaster">Rollercoaster</string>
+	<string name="shoe_store">Shoe store</string>
+	<string name="souvenir_shop">Souvenir shop</string>
+	<string name="surfing_club">Surfing club</string>
+	<string name="water_slide">Water slide</string>
+	<string name="weather_station">Weather station</string>
+	
+	<string name="beach_bed_rental">Beach bed rental</string>
+	<string name="beach_hut">Beach hut</string>
+	<string name="cargo_port">Cargo port</string>
+	<string name="lifeguard">Lifeguard</string>
+	<string name="pier">Pier</string>
+	<string name="salesman_on_the_beach">Salesman on the beach</string>
+	<string name="shipwreck">Shipwreck</string>
+	<string name="surfshop">Surf shop</string>
+	<string name="watchtower">Watchtower</string>
+	<string name="watercycling_rental">Watercycling rental</string>
+	<string name="water_attraction">Water attraction</string>
+	
+	
+	<string name="bumper_cars">Bumper cars</string>
+	<string name="cotton_candy">Cotton candy</string>
+	<string name="jumping_attraction">Jumping attraction</string>
+	<string name="shooting_gallery">Shooting gallery</string>
+	
+
+	
+</resources>

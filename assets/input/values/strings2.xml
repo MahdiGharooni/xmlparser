@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="shop_power">Power</string>
+	
+	<string name="help_destroy">Click roads/buildings/rocks to destroy</string>
+	
+	<string name="buy_with_gold">Buy with %1$s gold</string>
+	<string name="buy_with_cash">Buy with %1$s cash</string>
+	<string name="buy_this_land">Buy this plot of land?</string>
+	
+	<string name="building_upgrade_option_powergenerator">Upgrade for %1$d extra power</string>
+	<string name="building_upgrade_option_happiness">Upgrade for +%1$d happiness</string>
+	<string name="city_advisor_build_powergenerator">You have a power shortage in your city which causes citizens to flee and lowers profits.\nMy advise is to build a %1$s.</string>    
+    
+	<string name="you_need_more_gold">You need more gold</string>
+	<string name="you_need_more_cash">You need more cash</string>
+	<string name="you_need_more_gold_and_cash">You need more cash and gold</string>
+	
+	<string name="gold_added">%1$s Gold added</string>
+	<string name="cash_added">%1$s Cash added</string>
+
+	<string name="exchange_confirmation">Are you sure you want to make this exchange?</string>
+	
+	<string name="power_points_needed">Power needed: %1$d</string>
+	<string name="power_points_consumption">Power: %1$d/%2$d</string>
+	<string name="power_points">Power: %1$d</string>
+	<string name="fix_power_shortage_in_city">Fix the power shortage in your city</string>
+			
+	<string name="oops_something_went_wrong">Oops! Something\'s wrong!</string>
+	
+	<string name="hoover_dam_description">This dam will generate %1$s power for your city (which is quite a lot).</string>
+	<string name="hoover_dam_description_fixing">Remaining time to activate the dam: %1$s</string>
+	
+	<string name="hydrostation_description">This hydroelectric station will generate %1$s power for your city.</string>
+	<string name="hydrostation_description_fixing">Remaining time to activate the hydroelectric station: %1$s</string>
+	
+	<string name="exchange_office_description">The currency exchange office can exchange your cash into GOLD!</string>
+	<string name="exchange_office_dependency">The currency exchange office can only be activated once this building is active.</string>
+	<string name="buy_expansion_first">Purchase the surrounding land</string>
+	<string name="remaining_time_to_activate_this_building">Remaining time to activate this building: %1$s</string>
+	
+	<string name="trading_center_ready">Your trade center is ready!</string>
+	<string name="exchange_office_ready">Your currency exchange office is ready!</string>
+	<string name="exchange_office_gold_ready">Your gold is ready to be collected!</string>
+		
+	<string name="activate_trading_center">Activate the trade center</string>
+	<string name="build_world_bank">Build the world bank</string>
+	<string name="upgrade_trading_center_to_level">Upgrade the trade center to level %1$d</string>
+	<string name="upgrade_world_bank_to_level">Upgrade the world bank to level %1$d</string>
+	<string name="upgrade_your_building_first">You need to upgrade this building first.\n\nUpgrade cost: %1$s</string>
+					
+	<string name="world_bank_needs_power">Provide your world bank for 100% of electricity</string>
+	<string name="world_bank_needs_employees">Provide your world bank for 100% of employees</string>
+	<string name="trading_center_needs_power">Provide your trade center for 100% of electricity</string>
+	
+	<string name="steps_to_complete_to_activate_this_building">Complete these steps to activate this building</string>
+	<string name="steps_to_complete_to_be_able_to_upgrade_this_building">Complete these steps to be able to upgrade this building</string>
+			
+	<string name="object_out_of_range">You need to purchase the surrounding land to get access to this object.</string>
+		
+		
+	<string name="buy_missing">Add more:</string>
+	<string name="do_you_want_to_buy_more">Want to buy more?</string>
+	<string name="go_to_the_shop">Go to the shop</string>
+	
+	<plurals name="reward_buy_expansions">
+		<item quantity="one">Buy %d expansion for your city</item>
+		<item quantity="other">Buy %d expansions for your city</item>
+	</plurals>
+	
+
+	<string name="feedback_roads_wanted">We need more roads in this city, so we can get anywhere we need by car.</string>
+   	<string name="feedback_rivers_wanted">I think we could use more canals, so we can use boats to reach every part of the city.</string>
+   	<string name="feedback_walkways_wanted">Can you please add more walkways? I think walking is a pretty healthy way of transportation.</string>
+   	<string name="feedback_upgrade_home">Can you upgrade our home to add room for more people?</string>
+   	<string name="feedback_upgrade_commercial">We could need some more people at my work. Could you buy an upgrade so we can hire more people?</string>
+   	<string name="feedback_build_community_buildings">I think it\'s time to add more community buildings to this city. That would make us all happy!</string>
+   	<string name="feedback_build_residential_buildings">Some of my friends would like to come and work in this city. Can you build more houses so they can come live here?</string>
+   	<string name="feedback_build_commercial_buildings">I know some people that are looking for a job but they couldn\'t find any. Can you please create more jobs in this city?</string>
+   	<string name="feedback_firedepartment_needed">The city is growing, which means we need more firemen to help us out in danger. Please build more fire departments so we can feel safe here!</string>
+   	<string name="feedback_hospitals_needed">As the population is growing, medical care is getting more important. Please build more hospitals so we can get the healthcare we need.</string>
+   	<string name="feedback_policestations_needed">With more and more people living in this city, crime is getting a bigger issue. Please build more police stations so we feel safe!</string>
+   	<string name="feedback_schools_needed">Education is getting an issue in the city. Build more schools, highschools and universities, so everyone can get proper education.</string>
+
+   	<string name="feedback_firedepartments">Fire departments</string>
+   	<string name="feedback_medical_care">Medical care</string>
+   	<string name="feedback_crime_fighting">Crime fighting</string>
+   	<string name="feedback_education">Education</string>
+   	   		
+   							
+   	<string name="reward_collect_gifts_from_citizens">Collect %1$s gifts from your citizens</string>
+   	<string name="reward_collect_smiles_from_citizens">Collect %1$s smileys</string>
+	
+	<string name="reward_roads_length">Total roads length: %1$s</string>
+    <string name="reward_walkway_length">Total walkways length: %1$s</string>
+    <string name="reward_river_length">Total canals length: %1$s</string>
+   	
+	
+	<string name="tutorial_start">Welcome to this beautiful island!\n\nYour task is to build a prosperous city.</string>
+	<string name="tutorial_build_house">We start by building a house, so there is room for people to live in your city.</string>
+	<string name="tutorial_speedup_house">Your house is now being built. Click on the house, and then press the button to accelerate the time.</string>
+	<string name="tutorial_build_road">This building is to be built on a road. Roads make sure that everything is accessible in your city for your citizens.</string>
+	<string name="tutorial_power_needed">Buildings need electricity. Build a windmill to supply the city with electricity.</string>
+	<string name="tutorial_speedup_windmill">Click on the windmill and accelerate time.</string>
+	<string name="tutorial_build_decoration">To attract people to your town you should build community buildings and decorations. Therefore, build a park now.</string>
+	<string name="tutorial_build_commercial">Now build a commercial building to create jobs and make money.</string>
+	<string name="tutorial_timewarp">You can jump in time with this special button. Please try it!</string>
+	<string name="tutorial_city_advisor">If you want to know what is needed in your city, you can always consult your advisor.</string>
+	<string name="tutorial_social">Check out this menu.</string>
+	<string name="tutorial_complete">You now know how things work.\nGood luck and have fun building a beautiful city!</string>
+	<string name="tutorial_progress">Tutorial progress</string>
+								
+	<string name="timewarp_title">Want to make jump in time?</string>
+	<string name="timewarp_description">Speedup timers from all buildings:\nprofit, construction, upgrades, demolition.</string>
+	<string name="timewarp_time">Time</string>
+	<string name="timewarp_cost">Cost</string>
+	<string name="timewarp_executed">You made a jump in time!</string>
+	<string name="timewarp_confirm">Yes</string>
+	<string name="timewarp_cancel">No</string>
+		
+	<string name="rocks_remove_description">Do you want to remove these rocks?\nIt will cost you %1$s cash.</string>
+	
+	<string name="shovels_description">To remove scenery, you need shovels. You can get them from your friends, or buy them with gold.</string>
+	<string name="shovels_needed_text">You need:</string>
+	<string name="shovels_inventory_text">You have:</string>
+	<string name="shovels_buy_with_gold">Buy the remaining shovels with %1$d gold?</string>
+	<string name="shovels_use">Do want to use your shovels?</string>
+		
+    <string name="road">Road</string>
+    <string name="river">Canal</string>
+    <string name="walkway">Walkway</string>
+
+    <!-- COMMERCIAL -->
+    <string name="aquarium">Aquarium</string>
+    <string name="arcade_hall">Arcade hall</string>
+    <string name="bakery">Bakery</string>
+    <string name="bank">Bank</string>
+    <string name="bar">Bar</string>
+    <string name="beach_bar">Beach bar</string>
+    <string name="beach_club">Beach club</string>
+    <string name="beach_resort">Beach resort</string>
+    <string name="bed_and_breakfast">Bed and breakfast</string>
+    <string name="bowling">Bowling</string>
+    <string name="burger_restaurant">Burger restaurant</string>
+    <string name="bus_station">Bus station</string>
+    <string name="businesstower">Business tower</string>
+    <string name="cafe">Cafe</string>
+    <string name="candy_shop">Candy shop</string>
+    <string name="car_wash">Car wash</string>
+    <string name="casino">Casino</string>
+    <string name="chinese_restaurant">Chinese restaurant</string>
+    <string name="cinema">Cinema</string>
+    <string name="circus">Circus</string>
+    <string name="cocktail_bar">Cocktail bar</string>
+    <string name="coffee_corner">Coffee corner</string>
+    <string name="coffee_shop">Coffee shop</string>
+    <string name="diner_restaurant">Restaurant</string>
+    <string name="disco">Disco</string>
+    <string name="donut_cafe">Donut cafe</string>
+    <string name="factory">Factory</string>
+    <string name="farm_with_animals">Animal farm</string>
+    <string name="farm_with_farmland">Farm</string>
+    <string name="fashion_shop">Fashion shop</string>
+    <string name="fashion_store">Fashion store</string>
+    <string name="fast_food_restaurant">Fast food restaurant</string>
+    <string name="fishing_auction_building">Fishing auction building</string>
+    <string name="flower_shop">Flower shop</string>
+    <string name="gas_station">Gas station</string>
+    <string name="grill_restaurant">Grill restaurant</string>
+    <string name="grosery_store">Grocery store</string>
+    <string name="handy_store">Handy store</string>
+    <string name="hot_dog_stand">Hot dog stand</string>
+    <string name="hotel">Hotel</string>
+    <string name="hotel_on_water">Hotel on water</string>
+    <string name="italian_restaurant">Italian restaurant</string>
+    <string name="japanese_restaurant">Japanese restaurant</string>
+    <string name="jeweler">Jeweler</string>
+    <string name="motel">Motel</string>
+    <string name="newsstand">Newsstand</string>
+    <string name="night_club">Night club</string>
+    <string name="offices">Offices</string>
+    <string name="oil_platform">Oil platform</string>
+    <string name="shopping_mall">Shopping mall</string>
+    <string name="supermarket">Supermarket</string>
+    <string name="sushi_restaurant">Sushi restaurant</string>
+    <string name="swimming_pool">Swimming pool</string>
+    <string name="toy_store">Toy store</string>
+    <string name="tv_tower">Tv tower</string>
+    <string name="water_resort">Water resort</string>
+    <string name="zoo">Zoo</string>
+
+    <!-- COMMUNITY -->
+    <string name="baseball_field">Baseball field</string>
+    <string name="baseball_stadium">Baseball stadium</string>
+    <string name="basketball_court">Basketball court</string>
+    <string name="church">Church</string>
+    <string name="city_hall">City hall</string>
+    <string name="daycare">Daycare</string>
+    <string name="ferris_wheel">Ferris wheel</string>
+    <string name="fire_department">Fire department</string>
+    <string name="golf_course">Golf course</string>
+    <string name="highschool">Highschool</string>
+    <string name="horse_and_cow_meadow">Horse and cow meadow</string>
+    <string name="horse_riding_school_1">Horseback riding school</string>
+    <string name="horse_stables">Horse stables</string>
+    <string name="hospital">Hospital</string>
+    <string name="library">Library</string>
+    <string name="lighthouse">Lighthouse</string>
+    <string name="marina">Marina</string>
+    <string name="mayor_statue">Mayor statue</string>
+    <string name="museum">Museum</string>
+    <string name="museum_of_history">Museum of history</string>
+    <string name="museum_of_modern_art">Museum of modern art</string>
+    <string name="playground">Playground</string>
+    <string name="police_station">Police station</string>
+    <string name="post_office">Post office</string>
+    <string name="prison">Prison</string>
+    <string name="ruins_middle_era">Ruins middle era</string>
+    <string name="ruins_roman_era">Ruins roman era</string>
+    <string name="school">School</string>
+    <string name="skatepark">Skatepark</string>
+    <string name="soccer_field">Soccerfield</string>
+    <string name="soccer_stadium">Soccer stadium</string>
+    <string name="spa">Spa</string>
+    <string name="taxi_station">Taxi station</string>
+    <string name="tennis_court">Tennis court</string>
+    <string name="theatre">Theatre</string>
+    <string name="university">University</string>
+    <string name="water_park">Water park</string>
+    <string name="wedding_chapel">Wedding chapel</string>
+
+    <!-- DECORATIONS -->
+    <string name="city_square">City square</string>
+    <string name="fountain">Fountain</string>
+    <string name="park">Park</string>
+    <string name="tree">Tree</string>
+
+    <!-- POWER -->
+    <string name="power_station_coal">Power station coal</string>
+    <string name="power_station_gas">Power station gas</string>
+    <string name="power_station_nuclear">Power station nuclear</string>
+    <string name="power_station_solar">Power station solar</string>
+    <string name="windmill">Windmill</string>
+
+    <!-- RESIDENTIAL -->
+    <string name="apartments">Apartments</string>
+    <string name="house">House</string>
+    <string name="mansion">Mansion</string>
+    <string name="skyscraper">Skyscraper</string>
+    <string name="villa">Villa</string>
+		
+</resources>

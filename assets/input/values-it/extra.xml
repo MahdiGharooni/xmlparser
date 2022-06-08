@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_timewarp">Questo pulsante speciale ti permette di andare avanti nel tempo. Provalo!</string>
+    <string name="timewarp_title">Vuoi andare avanti nel tempo?</string>
+    <string name="timewarp_description">Accelera i timer di tutti gli edifici:\nprofitto, costruzione, aggiornamenti, demolizione.</string>
+    <string name="timewarp_time">Tempo</string>
+    <string name="timewarp_cost">Costo</string>
+    <string name="timewarp_executed">Sei andato avanti nel tempo!</string>
+    <string name="timewarp_confirm">Sì</string>
+    <string name="timewarp_cancel">No</string>
+</resources>

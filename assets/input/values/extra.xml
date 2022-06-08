@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="tutorial_timewarp">You can jump in time with this special button. Please try it!</string>
+	<string name="timewarp_title">Want to make jump in time?</string>
+	<string name="timewarp_description">Speedup timers from all buildings:\nprofit, construction, upgrades, demolition.</string>
+	<string name="timewarp_time">Time</string>
+	<string name="timewarp_cost">Cost</string>
+	<string name="timewarp_executed">You made a jump in time!</string>
+	<string name="timewarp_confirm">Yes</string>
+	<string name="timewarp_cancel">No</string>
+</resources>
