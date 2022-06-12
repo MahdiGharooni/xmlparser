@@ -7,3 +7,8 @@ A Flutter project to parse **.xml files**. By this application you can see two s
 
 ### Home Page
 As the first page you see the **home page** includes two buttons, **Sample Button** to see the sample inputs and see and the **Browse Button** to choose your directory from device and parse it 
+
+
+### Sample Page
+In this page you can choose English or Italian inputs sample to see the parsed text. In fact I have saved the .xml files in our assets folder and parse them.
+
