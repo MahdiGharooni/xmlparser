@@ -6,7 +6,7 @@ A Flutter project to parse **.xml files**. By this application you can see two s
 ## Getting Started  
   
 ### Home Page
-As the first page you see the **home page** includes two buttons, **Sample Button** to see the sample inputs and the **Browse Button** to choose your directory from device and parse them.
+As the first page you see the **home page** includes two buttons, **Sample Button** to see the sample inputs and the **Browse Button** to choose your directory from device and parse it.
 
 <img src="https://github.com/MahdiGharooni/taskimages/blob/main/xml1.jpeg?raw=true"  width="250" height="500">
 
