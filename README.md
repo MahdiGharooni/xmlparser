@@ -17,3 +17,6 @@ In this page you can choose English or Italian inputs sample to see the parsed t
 
 <img src="https://github.com/MahdiGharooni/taskimages/blob/main/xml2.jpeg?raw=true"  width="250" height="500">
 
+
+### Browse Page
+Finally in **Browse Page** you can choose a directory from your device and at the end, I parse all of the xml files subset of them into a .txt file. As you see in the below image, you can select the **saved icon** in the appBar and save the **result.txt** into your application data folder.
