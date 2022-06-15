@@ -49,4 +49,28 @@ class _SampleDetailsPageState extends State<SampleDetailsPage> {
     );
   }
 
+  Future<void> _parseFolder() async {
+    final byteData = await rootBundle.loadString('AssetManifest.json');
+
+    final Map<String, dynamic> _maps = json.decode(byteData) ?? {};
+
+    _maps.forEach((key, value) async {
+      if (key.contains(widget.folderName) && key.contains('.xml')) {
+        final String _fileName = (value as List<dynamic>)[0];
+
+        _filesName.add(_fileName);
+
+        final String _text =
+            await DefaultAssetBundle.of(context).loadString(_fileName);
+
+        final String _res = Parser.parse(_text);
+
+        _parsedTexts.add(_res);
+      }
+    });
+
+    setState(() {
+      _loading = false;
+    });
+  }
 }
