@@ -28,3 +28,9 @@ into **/Android/0/data/com.xml_parser/files** you should see something like this
 
 <img src="https://github.com/MahdiGharooni/taskimages/blob/main/xml4.jpeg?raw=true"  width="280" height="500">  <img src="https://github.com/MahdiGharooni/taskimages/blob/main/xml5.jpeg?raw=true"  width="250" height="500">
 
+
+
+## Parser
+In **Parser** file I've implemented a parser file to parse a .xml file text. First of all I separete every line by **string tag**. Evety string tag includes a name and value parameters, like:
+
+ 
