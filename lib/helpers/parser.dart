@@ -113,4 +113,13 @@ class Parser {
     return '$_res]';
   }
 
+  /// check whether name was added before or not
+  static bool _nameAddedBefore(String _name) {
+    for (var element in _names) {
+      if (element == _name) {
+        return true;
+      }
+    }
+    return false;
+  }
 }
