@@ -32,4 +32,4 @@ into **/Android/0/data/com.xml_parser/files** you should see something like this
 ## Parser
 In **Parser** file I've implemented a parser file to parse a .xml file text. First of all I separate every line by **string tag**. Evety string tag includes a name and value parameters, like:
 
- 
+    <string name="ads_explain_1">This game is free to play.</string>
