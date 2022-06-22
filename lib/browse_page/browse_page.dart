@@ -121,5 +121,32 @@ class _BrowsePageState extends State<BrowsePage> {
     });
   }
 
+  void _parseFolder(List<dynamic> _children) {
+    for (var child in _children) {
+      /// folder has only some .xml files
+      if (child.path.endsWith('.xml')) {
+        if (child != null) {
+          setState(() {
+            _loading = true;
+          });
+
+          final File file = File(child.path);
+
+          files.add(file);
+
+          parsedFiles.add(Parser.parse(file.readAsStringSync()));
+        }
+
+        setState(() {
+          _loading = false;
+        });
+      } else {
+        /// folder has some other folders
+        Directory _folder = Directory(child.path);
+        var _files = _folder.listSync().toList();
+        _parseFolder(_files);
+      }
+    }
+  }
 
 }
