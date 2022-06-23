@@ -33,3 +33,7 @@ into **/Android/0/data/com.xml_parser/files** you should see something like this
 In **Parser** file I've implemented a parser file to parse a .xml file text. First of all I separate every line by **string tag**. Evety string tag includes a name and value parameters, like:
 
     <string name="ads_explain_1">This game is free to play.</string>
+    
+    
+then I check some characters in them, for example replace all the extra characters with empty string or replace placeholders with correct characters. So, I define a **regex** to find the placeholder:
+    
