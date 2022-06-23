@@ -149,4 +149,34 @@ class _BrowsePageState extends State<BrowsePage> {
     }
   }
 
+  Future<void> _onSavedPressed(BuildContext context) async {
+    try {
+      /// merge all files output in one file
+      final Directory? _dir = await getExternalStorageDirectory();
+      for (var dirName in dirNames) {
+        final File file = File('${_dir!.path}/$dirName.txt');
+
+        String _res = '';
+
+        files.asMap().forEach((index, file) {
+          if ('${file.path}/'.contains('/$dirName/')) {
+            _res = '$_res\n${parsedFiles[index]}';
+          }
+        });
+
+        await file.writeAsString(_res);
+
+        /// show successful snackBar
+        SnackBar snackBar = SnackBar(
+          content:
+          Text('It was saved in this address:\n${_dir.path}/$dirName.txt'),
+          duration: const Duration(seconds: 5),
+          backgroundColor: Colors.green,
+        );
+        ScaffoldMessenger.of(context).showSnackBar(snackBar);
+      }
+    } catch (_) {}
+  }
+
+
 }
