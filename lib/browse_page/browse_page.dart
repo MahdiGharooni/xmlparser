@@ -169,7 +169,7 @@ class _BrowsePageState extends State<BrowsePage> {
         /// show successful snackBar
         SnackBar snackBar = SnackBar(
           content:
-          Text('It was saved in this address:\n${_dir.path}/$dirName.txt'),
+              Text('It was saved in this address:\n${_dir.path}/$dirName.txt'),
           duration: const Duration(seconds: 5),
           backgroundColor: Colors.green,
         );
@@ -178,5 +178,31 @@ class _BrowsePageState extends State<BrowsePage> {
     } catch (_) {}
   }
 
+  Widget _getWidgets() {
+    List<Widget> _res = [Container()];
+    for (var dirName in dirNames) {
+      _res.add(
+        Text(
+          '$dirName:',
+          style: const TextStyle(
+              fontWeight: FontWeight.bold, fontSize: 24, color: Colors.red),
+        ),
+      );
 
+      files.asMap().forEach((index, file) {
+        if ("${file.path}/".contains('/$dirName/')) {
+          _res.add(ParsedTextWidget(
+              path: file.path, parsedText: parsedFiles[index]));
+        }
+      });
+    }
+
+    return Expanded(
+      child: ListView(
+        children: _res,
+        shrinkWrap: true,
+        padding: const EdgeInsets.symmetric(horizontal: 24),
+      ),
+    );
+  }
 }
