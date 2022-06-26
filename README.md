@@ -37,3 +37,7 @@ In **Parser** file I've implemented a parser file to parse a .xml file text. Fir
 then I check some characters in them, for example replace all the extra characters with empty string or replace placeholders with correct characters. So, I define a **regex** to find the placeholder:
     
     RegExp(r'(%[0-9]*\$[a-z])')
+    
+    
+>**NOTE**: For implementing the parser I didn't use any library or package. I've used packages only for media permission and file manager.
+    
